@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us | My Tech World</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Us</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="content">
+      <h2>Who We Are</h2>
+      <p>
+        My Tech World is a platform created by technology enthusiasts to share updates, articles, and tutorials 
+        about the ever-evolving digital world. We believe that understanding technology helps everyone adapt 
+        to a smarter future.
+      </p>
+      <p>
+        Our mission is to make technology simple, accessible, and exciting for all learners and professionals.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 My Tech World | Built with 💙 and Code</p>
+  </footer>
+</body>
+</html>
